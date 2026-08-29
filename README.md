@@ -30,12 +30,26 @@ Python • Scikit-learn • LangChain • RAG
 **Tools:**
 Git • GitHub • VS Code • n8n
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
+
+💰 **FinTrack — AI-Powered Personal Finance Tracker**
+
+A full-stack personal finance management application that helps users track income and expenses, manage budgets, visualize financial data, and receive AI-powered spending insights.
+
+**Tech:** React.js • Vite • Redux Toolkit • Node.js • Express.js • MongoDB • OpenAI API • JWT
+
+🔗 [Live Demo](https://fintrack-orcin-chi.vercel.app/dashboard)  
+💻 [View Repository](https://github.com/MITHILESH-61/Finance-Tracker)
+
+---
 
 🩺 **KidneyCare AI**
 
-A machine-learning-based healthcare application that predicts Chronic Kidney Disease stages using patient health parameters and provides personalized diet recommendations.
+A machine-learning-powered healthcare application that predicts Chronic Kidney Disease stages using patient health parameters and provides personalized guidance and diet recommendations.
 
+**Tech:** React.js • Flask • Python • MongoDB • Scikit-learn • Random Forest
+
+💻 [View Repository](https://github.com/MITHILESH-61/kidney-care)
 ### 📊 What I'm Working On
 
 * 🔹 Full-Stack MERN applications
