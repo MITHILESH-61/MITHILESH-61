@@ -1,15 +1,21 @@
-<h1 align="center">Hi 👋, I'm Mithilesh Madhuraboina</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer | Full-Stack Developer | AI & Machine Learning Enthusiast
-</h3>
+# 👋 Hi, I'm Mithilesh Madhuraboina
 
-<p align="center">
+### Software Engineer | Full-Stack Developer | AI & Machine Learning Enthusiast
+
+Building scalable web applications and AI-powered solutions.
+
+<p>
   <a href="mailto:mithilesh04122@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
   <a href="https://github.com/MITHILESH-61">GitHub</a>
 </p>
-<img src="https://komarev.com/ghpvc/?username=MITHILESH-61&label=Profile%20Views&style=for-the-badge" alt="Profile Views"/>
+
+<img src="https://komarev.com/ghpvc/?username=MITHILESH-61&label=Profile%20Views&style=flat-square" alt="Profile Views"/>
+
+</div>
+
 ---
 
 ## 👨‍💻 About Me
@@ -30,23 +36,20 @@ I'm a Computer Science and Engineering graduate passionate about building scalab
 
 A full-stack personal finance management platform that helps users track expenses, manage budgets, analyze spending, and receive AI-powered financial insights.
 
-**Tech Stack:**
-
+**Tech Stack:**  
 `React.js` `Redux Toolkit` `Node.js` `Express.js` `MongoDB` `OpenAI API` `JWT`
-
-### 🔗 Project Links
 
 <p>
   <a href="https://fintrack-orcin-chi.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-success?style=for-the-badge" alt="Live Demo"/>
   </a>
 
   <a href="https://github.com/MITHILESH-61/Finance-Tracker">
-    <img src="https://img.shields.io/badge/GitHub-View%20Code-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-View%20Code-black?style=for-the-badge&logo=github" alt="GitHub Repository"/>
   </a>
 </p>
 
-Key Features:
+**Key Features:**
 
 - Secure JWT-based authentication
 - Income and expense tracking
@@ -63,11 +66,10 @@ Key Features:
 
 A machine-learning-based healthcare application designed to predict Chronic Kidney Disease using patient health parameters.
 
-**Tech Stack:**
-
+**Tech Stack:**  
 `Python` `Flask` `Random Forest` `React.js` `MongoDB`
 
-Key Features:
+**Key Features:**
 
 - Chronic Kidney Disease prediction
 - Random Forest machine learning model
@@ -83,31 +85,31 @@ Key Features:
 
 ### Programming Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,java,mysql" />
 </p>
 
 ### Frontend Development
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
 </p>
 
 ### Backend Development
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 </p>
 
 ### Databases
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
 </p>
 
 ### Tools & Platforms
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render" />
 </p>
 
@@ -128,11 +130,11 @@ Key Features:
 ## 🤝 Connect With Me
 
 <p>
-  📧 Email: <b>mithilesh04122@gmail.com</b>
+  📧 Email: <a href="mailto:mithilesh04122@gmail.com">mithilesh04122@gmail.com</a>
 </p>
 
 <p>
-  💼 GitHub: <a href="https://github.com/MITHILESH-61">MITHILESH-61</a>
+  💻 GitHub: <a href="https://github.com/MITHILESH-61">MITHILESH-61</a>
 </p>
 
 ---
