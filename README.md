@@ -1,63 +1,130 @@
-# Hi 👋, I'm Mithilesh
+<h1 align="center">Hi 👋, I'm Mithilesh Madhuraboina</h1>
 
-* 👨‍💻 I'm a **Computer Science Engineering** student and aspiring **Software Developer**
-* 🚀 I'm passionate about **Full-Stack Development, AI/ML, and Backend Development**
-* 🌱 Currently learning and building projects with **MERN Stack, Python, and AI**
-* 💻 I love building **real-world applications** and solving programming problems
-* 🤖 Interested in integrating **AI/ML into modern web applications**
-* 🧠 Currently improving my skills in **Data Structures & Algorithms, Backend Development, and SQL**
-* 🔨 Working on projects using **React.js, Node.js, Express.js, MongoDB, Python, and FastAPI**
-* 🤝 Open to collaborating on **Web Development, AI, and Open Source projects**
-* 📫 You can reach me through my GitHub profile
+<h3 align="center">
+Software Engineer | Full-Stack Developer | AI & Machine Learning Enthusiast
+</h3>
 
-### 🛠️ Tech Stack
-
-**Languages:**
-Python • JavaScript • SQL
-
-**Frontend:**
-HTML5 • CSS3 • Bootstrap • React.js
-
-**Backend:**
-Node.js • Express.js • Flask • FastAPI
-
-**Database:**
-MongoDB • PostgreSQL
-
-**AI / ML:**
-Python • Scikit-learn • LangChain • RAG
-
-**Tools:**
-Git • GitHub • VS Code • n8n
-
-### 🚀 Featured Projects
-
-💰 **FinTrack — AI-Powered Personal Finance Tracker**
-
-A full-stack personal finance management application that helps users track income and expenses, manage budgets, visualize financial data, and receive AI-powered spending insights.
-
-**Tech:** React.js • Vite • Redux Toolkit • Node.js • Express.js • MongoDB • OpenAI API • JWT
-
-🔗 [Live Demo](https://fintrack-orcin-chi.vercel.app/dashboard)  
-💻 [View Repository](https://github.com/MITHILESH-61/Finance-Tracker)
+<p align="center">
+  <a href="mailto:mithilesh04122@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="https://github.com/MITHILESH-61">GitHub</a>
+</p>
 
 ---
 
-🩺 **KidneyCare AI**
+## 👨‍💻 About Me
 
-A machine-learning-powered healthcare application that predicts Chronic Kidney Disease stages using patient health parameters and provides personalized guidance and diet recommendations.
+I'm a Computer Science and Engineering graduate passionate about building scalable web applications and AI-powered solutions.
 
-**Tech:** React.js • Flask • Python • MongoDB • Scikit-learn • Random Forest
-
-💻 [View Repository](https://github.com/MITHILESH-61/kidney-care)
-### 📊 What I'm Working On
-
-* 🔹 Full-Stack MERN applications
-* 🔹 AI-powered web applications
-* 🔹 Machine Learning projects
-* 🔹 Data Structures & Algorithms
-* 🔹 Backend APIs and authentication
+- 🔭 Currently focused on **Full-Stack Development and AI-powered applications**
+- 🌱 Continuously improving my skills in **React.js, Node.js, Python, Machine Learning, and System Design**
+- 💻 Experienced in building applications using the **MERN Stack**
+- 🤖 Interested in **Artificial Intelligence and Machine Learning**
+- 📫 Reach me at **mithilesh04122@gmail.com**
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+## 🚀 Featured Projects
+
+### 💰 FinTrack — AI-Powered Personal Finance Tracker
+
+A full-stack personal finance management platform that helps users track expenses, manage budgets, analyze spending, and receive AI-powered financial insights.
+
+**Tech Stack:**
+
+`React.js` `Redux Toolkit` `Node.js` `Express.js` `MongoDB` `OpenAI API` `JWT`
+
+Key Features:
+
+- Secure JWT-based authentication
+- Income and expense tracking
+- Budget management
+- Financial dashboards and analytics
+- AI-powered spending insights
+- Expense predictions
+- Monthly financial reports
+- PDF report generation
+
+---
+
+### 🏥 KidneyCare AI — AI-Powered Healthcare Application
+
+A machine-learning-based healthcare application designed to predict Chronic Kidney Disease using patient health parameters.
+
+**Tech Stack:**
+
+`Python` `Flask` `Random Forest` `React.js` `MongoDB`
+
+Key Features:
+
+- Chronic Kidney Disease prediction
+- Random Forest machine learning model
+- Python and Flask backend
+- REST API integration
+- Chatbot assistance
+- Personalized diet recommendations
+- Real-time input validation
+
+---
+
+## 🛠️ Languages and Tools
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,java,mysql" />
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,render" />
+</p>
+
+---
+
+## 💡 Areas of Interest
+
+- Full-Stack Web Development
+- REST API Development
+- Artificial Intelligence
+- Machine Learning
+- Software Engineering
+- Problem Solving
+- Data Structures and Algorithms
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  📧 Email: <b>mithilesh04122@gmail.com</b>
+</p>
+
+<p>
+  💼 GitHub: <a href="https://github.com/MITHILESH-61">MITHILESH-61</a>
+</p>
+
+---
+
+<h3 align="center">
+⭐ Feel free to explore my repositories and connect with me!
+</h3>
