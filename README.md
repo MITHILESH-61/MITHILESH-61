@@ -37,11 +37,11 @@ A full-stack personal finance management platform that helps users track expense
 ### 🔗 Project Links
 
 <p>
-  <a href="YOUR_FINTRACK_LIVE_DEMO_LINK">
+  <a href="https://fintrack-orcin-chi.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-success?style=for-the-badge" />
   </a>
 
-  <a href="YOUR_FINTRACK_GITHUB_LINK">
+  <a href="https://github.com/MITHILESH-61/Finance-Tracker">
     <img src="https://img.shields.io/badge/GitHub-View%20Code-black?style=for-the-badge&logo=github" />
   </a>
 </p>
