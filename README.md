@@ -34,6 +34,18 @@ A full-stack personal finance management platform that helps users track expense
 
 `React.js` `Redux Toolkit` `Node.js` `Express.js` `MongoDB` `OpenAI API` `JWT`
 
+### 🔗 Project Links
+
+<p>
+  <a href="YOUR_FINTRACK_LIVE_DEMO_LINK">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-success?style=for-the-badge" />
+  </a>
+
+  <a href="YOUR_FINTRACK_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/GitHub-View%20Code-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
 Key Features:
 
 - Secure JWT-based authentication
