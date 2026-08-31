@@ -12,8 +12,9 @@ Building scalable web applications and AI-powered solutions.
   <a href="https://github.com/MITHILESH-61">GitHub</a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=MITHILESH-61&label=Profile%20Views&style=flat-square" alt="Profile Views"/>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MITHILESH-61&label=PROFILE%20VIEWS&style=flat&color=0e75b6" alt="Profile Views" />
+</p>
 </div>
 
 ---
