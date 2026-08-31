@@ -9,7 +9,7 @@ Software Engineer | Full-Stack Developer | AI & Machine Learning Enthusiast
   <a href="https://www.linkedin.com/">LinkedIn</a> •
   <a href="https://github.com/MITHILESH-61">GitHub</a>
 </p>
-
+<img src="https://komarev.com/ghpvc/?username=MITHILESH-61&label=Profile%20Views&style=for-the-badge" alt="Profile Views"/>
 ---
 
 ## 👨‍💻 About Me
